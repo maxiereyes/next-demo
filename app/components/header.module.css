@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    height: 120px;
+}
+
+.links {
+    display: flex;
+    width: 120px;
+    height: 40px;
+    background-color: rgb(168, 67, 67);
+    color: white;
+    border-radius: 5px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
